@@ -73,24 +73,46 @@
 
 ## Const Hook
 
-    const fetchData = async () => {
-      try {
-         const res = await axiosInstance[method.toLowerCase()](url, {
-          ...othersConfig,
-        });
-        console.log(res.data);
-        setData(res.data);
-      } catch (err) {
-        console.log(err.message);
-        setError(err.message);
-      } finally {
-        setLoading(false);
-      }
-    };
+
+### Service
+
+    import  axios  from  "axios";
+   
+    class  AppService {
+    constructor(configRequest) {
+    const { method, url  = {} } = configRequest;
+  
+    this.method  = method;
+    this.url  = url;
     
-    fetchData();
+    this.axiosInstance  = axios.create({
+    
+    baseURL:  "https://jsonplaceholder.typicode.com/",});
+    }
+    
+      
+    
+    async  getData() {
+    
+    try {
+    
+    const  req  =  await  this.axiosInstance[this.method.toLowerCase()](this.url);
+    
+    return req.data;
+    
+    } catch (error) {
+    
+    console.log(error);
+    
+    }
+    
+    }
+    
+    }
+    
+    export  default  AppService;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI1NDc2MDAsLTI1Mjc3MTY1LDc5Nj
-czMjI5Ml19
+eyJoaXN0b3J5IjpbLTE4MzEwNjkxMzgsLTE5OTI1NDc2MDAsLT
+I1Mjc3MTY1LDc5NjczMjI5Ml19
 -->
