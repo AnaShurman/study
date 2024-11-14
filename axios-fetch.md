@@ -72,8 +72,25 @@
 	}
 
 ## Const Hook
-const fetch
-const res = await axiosInstance[method](url)
+
+    const fetchData = async () => {
+      try {
+         const res = await axiosInstance[method.toLowerCase()](url, {
+          ...othersConfig,
+        });
+        console.log(res.data);
+        setData(res.data);
+      } catch (err) {
+        console.log(err.message);
+        setError(err.message);
+      } finally {
+        setLoading(false);
+      }
+    };
+    
+    fetchData();
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1Mjc3MTY1LDc5NjczMjI5Ml19
+eyJoaXN0b3J5IjpbLTE5OTI1NDc2MDAsLTI1Mjc3MTY1LDc5Nj
+czMjI5Ml19
 -->
