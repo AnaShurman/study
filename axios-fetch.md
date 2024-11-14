@@ -90,29 +90,21 @@
     baseURL:  "https://jsonplaceholder.typicode.com/",});
     }
     
-      
-    
     async  getData() {
-    
     try {
-    
     const  req  =  await  this.axiosInstance[this.method.toLowerCase()](this.url);
     
     return req.data;
     
     } catch (error) {
-    
     console.log(error);
-    
     }
-    
     }
-    
     }
     
     export  default  AppService;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEwNjkxMzgsLTE5OTI1NDc2MDAsLT
-I1Mjc3MTY1LDc5NjczMjI5Ml19
+eyJoaXN0b3J5IjpbMTMxNDA3MTEyMiwtMTk5MjU0NzYwMCwtMj
+UyNzcxNjUsNzk2NzMyMjkyXX0=
 -->
