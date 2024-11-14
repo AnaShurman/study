@@ -72,7 +72,8 @@
 	}
 
 ## Const Hook
-const 
+const fetch
+const res = await axiosInstance[method](url)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk1NDAxNzEsNzk2NzMyMjkyXX0=
+eyJoaXN0b3J5IjpbLTI1Mjc3MTY1LDc5NjczMjI5Ml19
 -->
