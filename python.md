@@ -6,7 +6,10 @@
 - configurar git hub
 - configurar interpretador
 - configurar ambiente virtual
-- 
+
+
+## pandas 
+read_csv 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzIzNjI4M119
+eyJoaXN0b3J5IjpbLTIwMzE0OTIzNTJdfQ==
 -->
