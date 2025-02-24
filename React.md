@@ -14,11 +14,11 @@ São blocos independentes e reutilizaveis podendo conter logicas diferentes.
 ## Props
 - Props são dados imutaveis passados de componente pai para componente filho
 - são somente para leitura e não podem ser editados dentro do componente filho
-
+- um props só pode ser alterado através do componente pai utilizando state e enviado novamente ao componente filho
 ## State
 - Guarda informações internas do componente
 - pode ser mudado através do useState()
-- Re-renderiza quando o valor é mudad
+- Re-renderiza quando o valor é alterado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTc4NTkzNywtMTA3ODcyNjNdfQ==
+eyJoaXN0b3J5IjpbNzU5MTg3OTQyLC0xMDc4NzI2M119
 -->
