@@ -16,7 +16,9 @@ São blocos independentes e reutilizaveis podendo conter logicas diferentes.
 - são somente para leitura e não podem ser editados dentro do componente filho
 
 ## State
-
+- Guarda informações internas do componente
+- pode ser mudado através do useState()
+- Re-renderiza quando o valor é mudad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzODQ5MjQsLTEwNzg3MjYzXX0=
+eyJoaXN0b3J5IjpbMTA3MTc4NTkzNywtMTA3ODcyNjNdfQ==
 -->
