@@ -12,8 +12,11 @@ São blocos independentes e reutilizaveis podendo conter logicas diferentes.
 -   **Entre componentes independentes:** Context API, Redux ou eventos globais.
 
 ## Props
-Props são dados imutaveis passados de pai pa
+- Props são dados imutaveis passados de componente pai para componente filho
+- são somente para leitura e não podem ser editados dentro do componente filho
+
 ## State
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQyNDM2ODcsLTEwNzg3MjYzXX0=
+eyJoaXN0b3J5IjpbOTkzODQ5MjQsLTEwNzg3MjYzXX0=
 -->
