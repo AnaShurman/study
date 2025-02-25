@@ -19,6 +19,9 @@ São blocos independentes e reutilizaveis podendo conter logicas diferentes.
 - Guarda informações internas do componente
 - pode ser mudado através do useState()
 - Re-renderiza quando o valor é alterado
+
+# useCallback
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTYyNTk5MCwtMTA3ODcyNjNdfQ==
+eyJoaXN0b3J5IjpbMTIyNjY0MDk0MywtODExNjI1OTkwLC0xMD
+c4NzI2M119
 -->
