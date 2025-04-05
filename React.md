@@ -20,8 +20,21 @@ São blocos independentes e reutilizaveis podendo conter logicas diferentes.
 - pode ser mudado através do useState()
 - Re-renderiza quando o valor é alterado
 
-# useCallback
+utilizar o spread (...) para evitar de chamar um item de cada vez
+## normal 
+ const usuario = {
+  nome: "Ana",
+  idade: 22,
+  cidade: "São Paulo"
+};
+
+// Chamando assim: 👇 (não ideal se tiver muitas props)
+<Perfil nome={usuario.nome} idade={usuario.idade} cidade={usuario.cidade} />
+
+## com o spread 
+<Perfil {...usuario} />
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjY0MDk0MywtODExNjI1OTkwLC0xMD
-c4NzI2M119
+eyJoaXN0b3J5IjpbMTc0MjU3MTA2NiwxMjI2NjQwOTQzLC04MT
+E2MjU5OTAsLTEwNzg3MjYzXX0=
 -->
