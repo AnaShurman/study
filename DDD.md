@@ -11,8 +11,11 @@
 
 ## Design estrategico
 é importante identificar o dominio, o core daquele projeto
-Dominio po
+Dominio pode ser separado em:
+- subdominio principal: é o que te diferencia dos outros no mercado, vc pode ter mais de 1 sub dominio principal
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDM1NzI4MCwyMTIyNjk2NjI0LC0xNz
+eyJoaXN0b3J5IjpbLTY5MDAwODk4MiwyMTIyNjk2NjI0LC0xNz
 Y5MzcxNzE0LDI1MjA4NTE5NV19
 -->
