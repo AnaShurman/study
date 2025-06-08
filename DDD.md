@@ -8,6 +8,10 @@
  - facilita manutenção de codigo
  - deixa o sistema mais organizado
 
+
+## Design estrategico
+é  identificar o dominio, o centro daquele projeto 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbLTcwODc0OTUxNywtMTc2OTM3MTcxNCwyNT
+IwODUxOTVdfQ==
 -->
