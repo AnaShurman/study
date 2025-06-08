@@ -10,8 +10,9 @@
 
 
 ## Design estrategico
-é importante identificar o dominio, o core daquele projeto 
+é importante identificar o dominio, o core daquele projeto
+Dominio po
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNT
-IwODUxOTVdfQ==
+eyJoaXN0b3J5IjpbMjA4MDM1NzI4MCwyMTIyNjk2NjI0LC0xNz
+Y5MzcxNzE0LDI1MjA4NTE5NV19
 -->
