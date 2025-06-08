@@ -14,9 +14,9 @@
 Dominio pode ser separado em:
 - subdominio principal: é o que te diferencia dos outros no mercado, vc pode ter mais de 1 sub dominio principal
 - subdominio generico: conjunto de processos comuns no mercado, ex financeiro. todas as empresas tem
-- 
+- subdominio suporte: apoia o negocio da empresa mas não da nenhuma vantagem estrategica
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwODU3NzIzLDIxMjI2OTY2MjQsLTE3Nj
-kzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbLTI1ODY1NDI5NiwyMTIyNjk2NjI0LC0xNz
+Y5MzcxNzE0LDI1MjA4NTE5NV19
 -->
