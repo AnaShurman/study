@@ -1,6 +1,6 @@
 ## Domain Drive Design (DDD)
-
+- design orientado a 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbLTgyNjUyMTA1OCwyNTIwODUxOTVdfQ==
 -->
