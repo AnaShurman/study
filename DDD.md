@@ -16,9 +16,9 @@ Dominio pode ser separado em:
 - subdominio generico: conjunto de processos comuns no mercado, ex financeiro. todas as empresas tem
 - subdominio suporte: apoia o negocio da empresa mas não da nenhuma vantagem estrategica
 usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
-- priorizar o core primeiro e\[
+- priorizar o core primeiro 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OCwxMz
-gxMzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNCwtMTc2OTM3
-MTcxNCwyNTIwODUxOTVdfQ==
+eyJoaXN0b3J5IjpbMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMCwyMD
+g3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIyNjk2
+NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
 -->
