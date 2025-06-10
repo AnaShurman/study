@@ -20,6 +20,7 @@ usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
 
 ## Domain Storytelling
 utiliza linguagem Pictográfica
+de
 contem:
 - atores
 - objetivos de trabalho
@@ -30,10 +31,11 @@ contem:
 - cores
 
 - no storytelling é necessario detalhar cada uma das ações do projeto
+- buscar sempre responder (como, onde, por que, pra quem )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMD
-g3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3
-MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MT
-QsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbLTExNTY2MTcwNDMsLTgwMTY3OTI4NywtMT
+M1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0
+NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2Mj
+QsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
 -->
