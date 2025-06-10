@@ -34,10 +34,11 @@ contem:
 - separar em diferentes cenarios para não deixar um unico diagrama complexo
 
 ### como definir o escopo
-
+existem 5 niveis de detalhamento de escopo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MD
-E2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQy
-NTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5Ni
-wyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbLTE1MTEyMDQzMzUsLTcyNTU4NzI2MiwxOD
+k3MDIzOTU0LC04MDE2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0
+MjU5OCwtMTQzMTQyNTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NT
+IsLTI1ODY1NDI5NiwyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1
+MjA4NTE5NV19
 -->
