@@ -18,10 +18,14 @@ Dominio pode ser separado em:
 usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
 - priorizar o core primeiro 
 
-Domain Stor
+## Domain Storytelling
+utiliza linguagem Pictográfica
+contem:
+- ato
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzc4MTMxOTgsMjA4NzQ0MjU5OCwtMT
-QzMTQyNTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1
-NDI5NiwyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV
-19
+eyJoaXN0b3J5IjpbMTQ2ODc4MDc0MiwyMDg3NDQyNTk4LC0xND
+MxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0
+Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX
+0=
 -->
