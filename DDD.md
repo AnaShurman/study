@@ -37,11 +37,12 @@ contem:
 existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de detalhamento onde temos uma visão clara dos processos Principais mas sem precisar de um nivel de detalhamento não grande.
 
 - identificar se o usuario esta falando do processo que ela ja faz ou do processo que ela gostaria de fazer 
-- dominio puro: mostramos apenas as interações entre os atores sem ressa
+- dominio puro: mostramos apenas as interações entre os atores sem ressaltar a tecnologia sendo utilizada
+- dominio digitalizado: mostramos as interações entre os atores e a tecnologia sendo utilizada
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNDM5MjY5LC03MjU1ODcyNjIsMTg5Nz
-AyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1
-OTgsLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC
-0yNTg2NTQyOTYsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIw
-ODUxOTVdfQ==
+eyJoaXN0b3J5IjpbMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OT
+cwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQy
+NTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1Mi
+wtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUy
+MDg1MTk1XX0=
 -->
