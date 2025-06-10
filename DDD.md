@@ -19,8 +19,8 @@ usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
 - priorizar o core primeiro 
 
 ## Domain Storytelling
-utiliza linguagem Pictográfica
-possibilita observar o quão conectado estão as coisas dentro do processo para identificar possiveis impactos
+- utiliza linguagem Pictográfica
+- possibilita observar o quão conectado estão as coisas dentro do processo para identificar possiveis impactos.
 contem:
 	- atores
 	- objetivos de trabalho
@@ -33,8 +33,9 @@ contem:
 - buscar sempre responder (como, onde, por que, pra quem )
 - separar em diferentes cenarios para não deixar um unico diagrama complexo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODg3Njk5MCwxODk3MDIzOTU0LC04MD
-E2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQy
-NTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5Ni
-wyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbLTExOTIxMjUyMjQsMTg5NzAyMzk1NCwtOD
+AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
+MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOT
+YsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
+
 -->
