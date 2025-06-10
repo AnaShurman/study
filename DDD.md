@@ -29,12 +29,11 @@ contem:
 - grupos
 - cores
 
-
-
+- no storytelling é necessario detalhar cada uma das ações do projeto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDA4MTI0MTQsLTEzNTM0MDgyMDUsMj
-A4NzQ0MjU5OCwtMTQzMTQyNTUyMCwyMDg3NDQyNTk4LDEzODEz
-NzA4NTIsLTI1ODY1NDI5NiwyMTIyNjk2NjI0LC0xNzY5MzcxNz
-E0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMD
+g3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3
+MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MT
+QsMjUyMDg1MTk1XX0=
 -->
