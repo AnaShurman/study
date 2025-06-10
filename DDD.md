@@ -34,12 +34,13 @@ contem:
 - separar em diferentes cenarios para não deixar um unico diagrama complexo
 
 ### como definir o escopo
-existem 5 niveis de detalhamento de escopo
+existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de detalhamento onde temos uma visão clara dos processos Principais mas sem precisar de um nivel de detalhamento não grande.
 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTE2NTgyMywtNzI1NTg3MjYyLDE4OT
-cwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQy
-NTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1Mi
-wtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUy
-MDg1MTk1XX0=
+eyJoaXN0b3J5IjpbLTIwMjU5ODkyMDIsLTcyNTU4NzI2MiwxOD
+k3MDIzOTU0LC04MDE2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0
+MjU5OCwtMTQzMTQyNTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NT
+IsLTI1ODY1NDI5NiwyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1
+MjA4NTE5NV19
 -->
