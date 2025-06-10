@@ -20,7 +20,7 @@ usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
 
 ## Domain Storytelling
 utiliza linguagem Pictográfica
-de
+possibilita observar o quão conectado estão as coisas dentro do processo para identificar possiveis impactos
 contem:
 - atores
 - objetivos de trabalho
@@ -34,8 +34,8 @@ contem:
 - buscar sempre responder (como, onde, por que, pra quem )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY2MTcwNDMsLTgwMTY3OTI4NywtMT
-M1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0
-NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2Mj
-QsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMz
+UzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0
+MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNC
+wtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
 -->
