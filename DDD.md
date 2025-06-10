@@ -17,8 +17,11 @@ Dominio pode ser separado em:
 - subdominio suporte: apoia o negocio da empresa mas não da nenhuma vantagem estrategica
 usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
 - priorizar o core primeiro 
+
+Domain Stor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMCwyMD
-g3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIyNjk2
-NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbLTIwMzc4MTMxOTgsMjA4NzQ0MjU5OCwtMT
+QzMTQyNTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1
+NDI5NiwyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV
+19
 -->
