@@ -22,20 +22,19 @@ usando essa analise conseguimos seguir estrategias que de adaptem melhor projeto
 utiliza linguagem Pictográfica
 possibilita observar o quão conectado estão as coisas dentro do processo para identificar possiveis impactos
 contem:
-- atores
-- objetivos de trabalho
-- atividades 
-- fluxo da historia
-- anotações
-- grupos
-- cores
-
+	- atores
+	- objetivos de trabalho
+	- atividades 
+	- fluxo da historia
+	- anotações
+	- grupos
+	- cores
 - no storytelling é necessario detalhar cada uma das ações do projeto
 - buscar sempre responder (como, onde, por que, pra quem )
-- s
+- separar em diferentes cenarios para não deixar um unico diagrama complexo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NTQ0MjU4LDE4OTcwMjM5NTQsLTgwMT
-Y3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1
-NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LD
-IxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbMTc4ODg3Njk5MCwxODk3MDIzOTU0LC04MD
+E2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQy
+NTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5Ni
+wyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
 -->
