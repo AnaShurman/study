@@ -32,10 +32,10 @@ contem:
 
 - no storytelling é necessario detalhar cada uma das ações do projeto
 - buscar sempre responder (como, onde, por que, pra quem )
-
+- s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMz
-UzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0
-MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNC
-wtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
+eyJoaXN0b3J5IjpbOTk4NTQ0MjU4LDE4OTcwMjM5NTQsLTgwMT
+Y3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1
+NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LD
+IxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
 -->
