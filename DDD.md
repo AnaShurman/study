@@ -43,11 +43,15 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 ### Linguagem Ubíqua
 - É uma **linguagem comum e compartilhada** entre todos os envolvidos no projeto
 ###  Modelagem de Domínio
-- como as coisas se rela
+- como as coisas se relacionam entre si
+** ferramentas**
+- Wiki
+- repositorios
+- gestão de processo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk1MTQ1NDksMTc5NDk3NzcwMCwtNz
-I1NTg3MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQw
-ODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OT
-gsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3
-NjkzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03Mj
+U1ODcyNjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4
+MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OC
+wxMzgxMzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNCwtMTc2
+OTM3MTcxNCwyNTIwODUxOTVdfQ==
 -->
