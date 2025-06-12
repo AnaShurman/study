@@ -54,14 +54,14 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 É a **fronteira clara** onde **um modelo de domínio específico** se aplica e **tem significado consistente**.
 > Ou seja: **dentro de um contexto delimitado, os termos da linguagem ubíqua são bem definidos e não mudam de sentido**.
 
-- cada dominio deve ter seus pro
+- cada dominio deve ter seus proprios conceitos delimitados separadamente, ex: ( marketing e o financeiro)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjM1MzQ0OSwxNDI4Njk0ODA1LDIwOD
-gwMzM5NDgsMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03MjU1ODcy
-NjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4MjA1LD
-IwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OCwxMzgx
-MzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNCwtMTc2OTM3MT
-cxNCwyNTIwODUxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODQ1MzAxMTYsMTQyODY5NDgwNSwyMD
+g4MDMzOTQ4LDE2MzIzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3
+MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNS
+wyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4
+MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNz
+E3MTQsMjUyMDg1MTk1XX0=
 -->
