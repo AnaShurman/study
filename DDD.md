@@ -1,13 +1,13 @@
 ## Domain Drive Design (DDD)
 - design orientado ao dominio
 - é uma abordagem que foca em entender profundamente o problema real que o software vai resolver 
+- O objetivo é alinhar **software, linguagem e regras de negócio**, para que o sistema reflita a realidade do usuário.
 
 ## vantagens:
  - evita sistemas bagunçados
  - alinha devs e especialista do negocio
  - facilita manutenção de codigo
  - deixa o sistema mais organizado
-
 
 ## Design estrategico
 é importante identificar o dominio, o core daquele projeto
@@ -56,10 +56,10 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2Mz
-IzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5
-NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC
-0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4
-NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUyMDg1MT
-k1XX0=
+eyJoaXN0b3J5IjpbLTIwMjE4ODgxNzcsMTQyODY5NDgwNSwyMD
+g4MDMzOTQ4LDE2MzIzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3
+MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNS
+wyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4
+MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNz
+E3MTQsMjUyMDg1MTk1XX0=
 -->
