@@ -50,11 +50,13 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - repositorios
 - gestão de processo
 
-
+### Contexto Delimitado
+- se dois componentes são muitos semelhantes, é possivel juntar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OT
-Q5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2Nzky
-ODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMC
-wyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIy
-Njk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbMTAwNTM3OTg1MSwyMDg4MDMzOTQ4LDE2Mz
+IzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5
+NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC
+0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4
+NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUyMDg1MT
+k1XX0=
 -->
