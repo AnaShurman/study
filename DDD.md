@@ -51,9 +51,12 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - gestão de processo
 
 ### Contexto Delimitado
-- se dois componentes são muitos semelhantes, é possivel juntar
+É a **fronteira clara** onde **um modelo de domínio específico** se aplica e **tem significado consistente**.
+> Ou seja: **dentro de um contexto delimitado, os termos da linguagem ubíqua são bem definidos e não mudam de sentido**.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTM3OTg1MSwyMDg4MDMzOTQ4LDE2Mz
+eyJoaXN0b3J5IjpbMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2Mz
 IzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5
 NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC
 0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4
