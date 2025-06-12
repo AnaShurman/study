@@ -39,10 +39,14 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - identificar se o usuario esta falando do processo que ela ja faz ou do processo que ela gostaria de fazer 
 - dominio puro: mostramos apenas as interações entre os atores sem ressaltar a tecnologia sendo utilizada
 - dominio digitalizado: mostramos as interações entre os atores e a tecnologia sendo utilizada
+
+### Linguagem Ubíqua
+- É uma **linguagem comum e compartilhada** entre todos os envolvidos no projeto
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OT
-cwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQy
-NTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1Mi
-wtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUy
-MDg1MTk1XX0=
+eyJoaXN0b3J5IjpbMTQ5ODIyMTkyMSwxNzk0OTc3NzAwLC03Mj
+U1ODcyNjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4
+MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OC
+wxMzgxMzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNCwtMTc2
+OTM3MTcxNCwyNTIwODUxOTVdfQ==
 -->
