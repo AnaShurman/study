@@ -94,8 +94,15 @@ são empresas que fazem o ACL por vc :
 
 ## Design tatico
 
+### Arquitetura em camadas
+
+é dividido em 4 camadas: 
+- camada de interface do usuario
+- de aplicação
+- de dominio
+- de infraestrutura
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjI0OTQ2OCw3MjMxNzI3ODAsLTcwOT
+eyJoaXN0b3J5IjpbMTMxMzk4MzY5MSw3MjMxNzI3ODAsLTcwOT
 AxODY4Myw1MjA4Njk4OSwtMTc4NDUzMDExNiwxNDI4Njk0ODA1
 LDIwODgwMzM5NDgsMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03Mj
 U1ODcyNjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4
