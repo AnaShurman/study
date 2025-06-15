@@ -127,12 +127,15 @@ são empresas que fazem o ACL por vc :
 - utilizam ID para identificação
 **Agregados** :
 conjunto de entidades que compartilham a mesma linguagem ubliqua e podem fazer parte do mesmo contexto delimitado
+ex:
+
+bulk changes é a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDEyMDkyOCwxNDIyNzQ0NTgyLC01Nz
-Y2NTE1OTAsMTY1OTEzMTM4OSwxMzEzOTgzNjkxLDcyMzE3Mjc4
-MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNzg0NTMwMTE2LDE0Mj
-g2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OTQ5Nzc3
-MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2NzkyODcsLT
-EzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMCwyMDg3
-NDQyNTk4XX0=
+eyJoaXN0b3J5IjpbMTQ5OTAzMTU0NCwxMjY0MTIwOTI4LDE0Mj
+I3NDQ1ODIsLTU3NjY1MTU5MCwxNjU5MTMxMzg5LDEzMTM5ODM2
+OTEsNzIzMTcyNzgwLC03MDkwMTg2ODMsNTIwODY5ODksLTE3OD
+Q1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAy
+OTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLT
+gwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMx
+NDI1NTIwXX0=
 -->
