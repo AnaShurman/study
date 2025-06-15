@@ -114,13 +114,14 @@ são empresas que fazem o ACL por vc :
 **- de infraestrutura:**
 - é a base de todas as camadas, facilita a comunicação entre as camadas superiores e a infraestrutura como banco de dados 
 
-
+### Blocos fundamentais
+- estruturas que nos orientam a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDYyNTQ4ODUsMTMxMzk4MzY5MSw3Mj
-MxNzI3ODAsLTcwOTAxODY4Myw1MjA4Njk4OSwtMTc4NDUzMDEx
-NiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5NSwxNz
-k0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtODAxNjc5
-Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1Mj
-AsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOTYsMjEy
-MjY5NjYyNF19
+eyJoaXN0b3J5IjpbMTMwMDcwMDMzMywxMzEzOTgzNjkxLDcyMz
+E3Mjc4MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNzg0NTMwMTE2
+LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OT
+Q5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2Nzky
+ODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMC
+wyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIy
+Njk2NjI0XX0=
 -->
