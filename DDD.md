@@ -117,8 +117,11 @@ são empresas que fazem o ACL por vc :
 ### Blocos fundamentais
 - estruturas que nos orientam em como proceder com a implementação
 
+**objetos de valor** 
+- não possuem identificadores
+- são imutaveis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjQyNzMyOSwxMzEzOTgzNjkxLDcyMz
+eyJoaXN0b3J5IjpbMTY1OTEzMTM4OSwxMzEzOTgzNjkxLDcyMz
 E3Mjc4MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNzg0NTMwMTE2
 LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OT
 Q5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2Nzky
