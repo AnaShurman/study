@@ -125,13 +125,14 @@ são empresas que fazem o ACL por vc :
 - possuem identificadores
 - são mutaveis
 - utilizam ID para identificação
--
+**Agregados** :
+conjunto de entidades que compartilham a mesma linguagem ubliqua e podem fazer parte do mesmo contexto delimitado
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NjM2NjU0LDE0MjI3NDQ1ODIsLTU3Nj
-Y1MTU5MCwxNjU5MTMxMzg5LDEzMTM5ODM2OTEsNzIzMTcyNzgw
-LC03MDkwMTg2ODMsNTIwODY5ODksLTE3ODQ1MzAxMTYsMTQyOD
-Y5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAyOTUsMTc5NDk3Nzcw
-MCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4NywtMT
-M1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0
-NDI1OThdfQ==
+eyJoaXN0b3J5IjpbMTI2NDEyMDkyOCwxNDIyNzQ0NTgyLC01Nz
+Y2NTE1OTAsMTY1OTEzMTM4OSwxMzEzOTgzNjkxLDcyMzE3Mjc4
+MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNzg0NTMwMTE2LDE0Mj
+g2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OTQ5Nzc3
+MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2NzkyODcsLT
+EzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMCwyMDg3
+NDQyNTk4XX0=
 -->
