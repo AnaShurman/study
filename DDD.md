@@ -78,10 +78,16 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 ✅ Login social (Google, Facebook, etc.)
 
 ##	Open host service
-- o fornecedor abre a api para qualquer pessoa acessar
+Um **Open Host Service** é:
+-   Uma **interface pública bem definida** (como uma API REST, GraphQL, gRPC, eventos Kafka, etc.)  
+-  Exposta **por um contexto delimitado**
+-   Para que **outros sistemas/contexts possam interagir com ele**
+-   Sem acoplar diretamente ao **modelo interno ou estrutura de código**
 
+### Linguagem publicada (PL)
+- o fornecedor cria instancias de seu serviço de seu serviço custominadas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk0Nzk3MTcsLTcwOTAxODY4Myw1Mj
+eyJoaXN0b3J5IjpbLTEzODQ5Nzg1NDAsLTcwOTAxODY4Myw1Mj
 A4Njk4OSwtMTc4NDUzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5
 NDgsMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMT
 g5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0
