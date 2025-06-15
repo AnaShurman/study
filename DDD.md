@@ -120,9 +120,9 @@ são empresas que fazem o ACL por vc :
 **objetos de valor** 
 - não possuem identificadores
 - são imutaveis
--
+- para manter a integridade dos dados quando vamos fazer alguma persistencia no banco, é importante fazer validações antes de executar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDIyOTgyMCwxNjU5MTMxMzg5LDEzMT
+eyJoaXN0b3J5IjpbLTU3NjY1MTU5MCwxNjU5MTMxMzg5LDEzMT
 M5ODM2OTEsNzIzMTcyNzgwLC03MDkwMTg2ODMsNTIwODY5ODks
 LTE3ODQ1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2Mz
 IzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5
