@@ -57,12 +57,14 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - cada dominio deve ter seus proprios conceitos delimitados separadamente, ex: ( marketing e o financeiro)
 
 ### Kernel compartilhado
-- quando dois times diferentes tem informações compartilhadas entre si, o que acada ultrapassando o contexto delimitado é importante discutir entre ambas as equipes para criar
+- quando dois times diferentes tem informações compartilhadas entre si, o que acada ultrapassando o contexto delimitado é importante discutir entre ambas as equipes para criar uma linguagem ubiqua entre ambos, evitando assim mal entendidos e deixando todas as pessoas com a mesma visão do processo
+- evite ao maximo compartilhar o mesmo codigo em dois times diferentes pois a chance de conflitos é muito grande.
+- quando a aplicação realmente dep
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzgzMjgyLC0xNzg0NTMwMTE2LDE0Mj
-g2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OTQ5Nzc3
-MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2NzkyODcsLT
-EzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMCwyMDg3
-NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIyNjk2Nj
-I0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbLTc0OTc3NDI2OCwtMTc4NDUzMDExNiwxND
+I4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5NSwxNzk0OTc3
+NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC
+0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4
+NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOTYsMjEyMjY5Nj
+YyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
 -->
