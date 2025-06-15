@@ -63,9 +63,11 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 -  
 ### Modelo cliente - fornecedor
 - nesse modelo os times trabalham de forma separada porém eles contem uma dependencia por conta de um serviço, por exemplo usar serviços de autentificação do google.
-- quando um fornecedor vai e muda a estrutura do serviço e o sistema cliente tem que 
+- quando um fornecedor vai e muda a estrutura do serviço e o sistema cliente tem que adaptar a forma que ele utiliza, se denomina **conformista**
+
+### Camada anti-corru
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzk1MTQxNyw1MjA4Njk4OSwtMTc4ND
+eyJoaXN0b3J5IjpbLTUwODUyOTIyNSw1MjA4Njk4OSwtMTc4ND
 UzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5
 NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtOD
 AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
