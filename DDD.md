@@ -127,11 +127,11 @@ são empresas que fazem o ACL por vc :
 - utilizam ID para identificação
 **Agregados** :
 conjunto de entidades que compartilham a mesma linguagem ubliqua e podem fazer parte do mesmo contexto delimitado
-ex:
 
-
+**servicos de dominio:** 
+são objetos tratados em separado que trabalham com diversas entidades e agre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTkyNTQxMywxMjY0MTIwOTI4LDE0Mj
+eyJoaXN0b3J5IjpbLTc2Mzc2ODg2NCwxMjY0MTIwOTI4LDE0Mj
 I3NDQ1ODIsLTU3NjY1MTU5MCwxNjU5MTMxMzg5LDEzMTM5ODM2
 OTEsNzIzMTcyNzgwLC03MDkwMTg2ODMsNTIwODY5ODksLTE3OD
 Q1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAy
