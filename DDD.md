@@ -67,12 +67,14 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 
 ### Camada anti-corrupção (ACL)
 - existe para proteger a aplicação de mudanças no serviço provido
-- evita de corromper a camada core do codigo, é uma camada 
+- evita de corromper a camada core do codigo, é uma camada desenvolvida antes e fora do codigo principal pois se for necessario fazer manipulações vc mexe exclusivamente nela ao inves de no resto do codigo.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NDEwNjQ2LDUyMDg2OTg5LC0xNzg0NT
-MwMTE2LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1
-LDE3OTQ5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MD
-E2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQy
-NTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5Ni
-wyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
+eyJoaXN0b3J5IjpbLTk0MjgwNTE4Nyw1MjA4Njk4OSwtMTc4ND
+UzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5
+NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtOD
+AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
+MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOT
+YsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
+
 -->
