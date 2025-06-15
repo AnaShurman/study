@@ -77,13 +77,15 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 ✅ Gerenciamento de usuários, papéis e grupos  
 ✅ Login social (Google, Facebook, etc.)
 
+##	Open host service
+- o fornecedor abre a api 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTAxODY4Myw1MjA4Njk4OSwtMTc4ND
-UzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5
-NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtOD
-AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
-MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOT
-YsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
-
+eyJoaXN0b3J5IjpbNTg5NjA4MzQyLC03MDkwMTg2ODMsNTIwOD
+Y5ODksLTE3ODQ1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4
+LDE2MzIzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OT
+cwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQy
+NTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1Mi
+wtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUy
+MDg1MTk1XX0=
 -->
