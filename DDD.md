@@ -62,12 +62,14 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - quando a aplicação realmente depender de fluxos que impactem ampas os setores, criar uma terceira aplicação que faça exclusivamente esse processo é uma boa opção, evitando que as aplicações principais acabem conflitando
 -  
 ### Modelo cliente - fornecedor
-- nesse modelo os times trabalham de forma separada porém eles contem uma dependencia por conta de um serviço
+- nesse modelo os times trabalham de forma separada porém eles contem uma dependencia por conta de um serviço, por exemplo usar serviços de autentificação do google.
+- quando um fornecedor vai e muda a estrutura do serviço e o sistema cliente tem que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwODY5ODksLTE3ODQ1MzAxMTYsMTQyOD
-Y5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAyOTUsMTc5NDk3Nzcw
-MCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4NywtMT
-M1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLDIwODc0
-NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2OTY2Mj
-QsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbMTUzNzk1MTQxNyw1MjA4Njk4OSwtMTc4ND
+UzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5
+NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtOD
+AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
+MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOT
+YsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
+
 -->
