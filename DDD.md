@@ -122,9 +122,12 @@ são empresas que fazem o ACL por vc :
 - são imutaveis
 - para manter a integridade dos dados quando vamos fazer alguma persistencia no banco, é importante fazer validações antes de executar 
 **entidades** 
-
+- possuem identificadores
+- são mutaveis
+- utilizam ID para identificação
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTMzMDA2MSwtNTc2NjUxNTkwLDE2NT
+eyJoaXN0b3J5IjpbMTQyMjc0NDU4MiwtNTc2NjUxNTkwLDE2NT
 kxMzEzODksMTMxMzk4MzY5MSw3MjMxNzI3ODAsLTcwOTAxODY4
 Myw1MjA4Njk4OSwtMTc4NDUzMDExNiwxNDI4Njk0ODA1LDIwOD
 gwMzM5NDgsMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03MjU1ODcy
