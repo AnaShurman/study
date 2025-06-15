@@ -97,17 +97,20 @@ são empresas que fazem o ACL por vc :
 ### Arquitetura em camadas
 
 é dividido em 4 camadas: 
-**- camada de interface do usuario**
-é a onde contem a interface do usuario, apis
-- de aplicação
-- de dominio
-- de infraestrutura
+**camada de interface do usuario**
+- é a onde contem a interface do usuario, apis
+**- de aplicação**
+- é a responsavel de fazer a mediação entre a camada de usuario e dominio.
+- não contém regras de negocio
+- monitora e reporta
+**- de dominio**
+**- de infraestrutura**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTkzMTYxMSwxMzEzOTgzNjkxLDcyMz
-E3Mjc4MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNzg0NTMwMTE2
-LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OT
-Q5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2Nzky
-ODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMC
-wyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIy
-Njk2NjI0XX0=
+eyJoaXN0b3J5IjpbNzI4MTgwMjQ2LDEzMTM5ODM2OTEsNzIzMT
+cyNzgwLC03MDkwMTg2ODMsNTIwODY5ODksLTE3ODQ1MzAxMTYs
+MTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAyOTUsMTc5ND
+k3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4
+NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLD
+IwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2
+OTY2MjRdfQ==
 -->
