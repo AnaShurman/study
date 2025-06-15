@@ -68,13 +68,22 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 ### Camada anti-corrupção (ACL)
 - existe para proteger a aplicação de mudanças no serviço provido
 - evita de corromper a camada core do codigo, é uma camada desenvolvida antes e fora do codigo principal pois se for necessario fazer manipulações vc mexe exclusivamente nela ao inves de no resto do codigo.
-- **keycloak** : util
+
+- **Keycloak** :  é uma **ferramenta open-source de identidade e acesso** (IAM - _Identity and Access Management_), que cuida de:
+✅ Autenticação (Login)  
+✅ Autorização (Permissões)  
+✅ SSO (Single Sign-On)  
+✅ OAuth2, OpenID Connect, SAML  
+✅ Gerenciamento de usuários, papéis e grupos  
+✅ Login social (Google, Facebook, etc.)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg5NzgxMTIsNTIwODY5ODksLTE3OD
-Q1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAy
-OTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLT
-gwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMx
-NDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mj
-k2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUyMDg1MTk1XX0=
+eyJoaXN0b3J5IjpbLTcwOTAxODY4Myw1MjA4Njk4OSwtMTc4ND
+UzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5
+NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtOD
+AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
+MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOT
+YsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
 
 -->
