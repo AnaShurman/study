@@ -121,12 +121,14 @@ são empresas que fazem o ACL por vc :
 - não possuem identificadores
 - são imutaveis
 - para manter a integridade dos dados quando vamos fazer alguma persistencia no banco, é importante fazer validações antes de executar 
+**entidades** 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjY1MTU5MCwxNjU5MTMxMzg5LDEzMT
-M5ODM2OTEsNzIzMTcyNzgwLC03MDkwMTg2ODMsNTIwODY5ODks
-LTE3ODQ1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2Mz
-IzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5
-NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC
-0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4
-NjU0Mjk2XX0=
+eyJoaXN0b3J5IjpbMTg4OTMzMDA2MSwtNTc2NjUxNTkwLDE2NT
+kxMzEzODksMTMxMzk4MzY5MSw3MjMxNzI3ODAsLTcwOTAxODY4
+Myw1MjA4Njk4OSwtMTc4NDUzMDExNiwxNDI4Njk0ODA1LDIwOD
+gwMzM5NDgsMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03MjU1ODcy
+NjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4MjA1LD
+IwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OCwxMzgx
+MzcwODUyXX0=
 -->
