@@ -85,13 +85,19 @@ Um **Open Host Service** é:
 -   Sem acoplar diretamente ao **modelo interno ou estrutura de código**
 
 ### Linguagem publicada (PL)
-- o fornecedor cria instancias de seu serviço de seu serviço custominadas
+- o fornecedor cria instancias de seu serviço custominadas
+são empresas que fazem o ACL por vc : 
+- Neogrid
+- nexxera
+- accesstage
+- informatica
+- informatica
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ5Nzg1NDAsLTcwOTAxODY4Myw1Mj
-A4Njk4OSwtMTc4NDUzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5
-NDgsMTYzMjM3MDI5NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMT
-g5NzAyMzk1NCwtODAxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0
-NDI1OTgsLTE0MzE0MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwOD
-UyLC0yNTg2NTQyOTYsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwy
-NTIwODUxOTVdfQ==
+eyJoaXN0b3J5IjpbNzIzMTcyNzgwLC03MDkwMTg2ODMsNTIwOD
+Y5ODksLTE3ODQ1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4
+LDE2MzIzNzAyOTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OT
+cwMjM5NTQsLTgwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQy
+NTk4LC0xNDMxNDI1NTIwLDIwODc0NDI1OTgsMTM4MTM3MDg1Mi
+wtMjU4NjU0Mjk2LDIxMjI2OTY2MjQsLTE3NjkzNzE3MTQsMjUy
+MDg1MTk1XX0=
 -->
