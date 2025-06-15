@@ -1,4 +1,8 @@
 ## Domain Drive Design (DDD)
+
+
+    persistencia - é o ato de salvar, atualizar, deletar ou recuperar dados de um armazenamento — geralmente um banco de dados.
+
 - design orientado ao dominio
 - é uma abordagem que foca em entender profundamente o problema real que o software vai resolver 
 - O objetivo é alinhar **software, linguagem e regras de negócio**, para que o sistema reflita a realidade do usuário.
@@ -109,12 +113,14 @@ são empresas que fazem o ACL por vc :
 - é a base de todas as camadas, facilita a comunicação entre as camadas superiores e a infraestrutura como banco de dados 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODI1NDQ2NCwxMzEzOTgzNjkxLDcyMz
-E3Mjc4MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNzg0NTMwMTE2
-LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1LDE3OT
-Q5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MDE2Nzky
-ODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQyNTUyMC
-wyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5NiwyMTIy
-Njk2NjI0XX0=
+eyJoaXN0b3J5IjpbNjIwMTE2MzQ1LDEzMTM5ODM2OTEsNzIzMT
+cyNzgwLC03MDkwMTg2ODMsNTIwODY5ODksLTE3ODQ1MzAxMTYs
+MTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAyOTUsMTc5ND
+k3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLTgwMTY3OTI4
+NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMxNDI1NTIwLD
+IwODc0NDI1OTgsMTM4MTM3MDg1MiwtMjU4NjU0Mjk2LDIxMjI2
+OTY2MjRdfQ==
 -->
