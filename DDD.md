@@ -65,13 +65,14 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - nesse modelo os times trabalham de forma separada porém eles contem uma dependencia por conta de um serviço, por exemplo usar serviços de autentificação do google.
 - quando um fornecedor vai e muda a estrutura do serviço e o sistema cliente tem que adaptar a forma que ele utiliza, se denomina **conformista**
 
-### Camada anti-corru
+### Camada anti-corrupção (ACL)
+- existe para proteger a aplicação de mudanças no serviço provido
+- evita de corromper a camada core do codigo, é uma camada 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODUyOTIyNSw1MjA4Njk4OSwtMTc4ND
-UzMDExNiwxNDI4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5
-NSwxNzk0OTc3NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtOD
-AxNjc5Mjg3LC0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0
-MjU1MjAsMjA4NzQ0MjU5OCwxMzgxMzcwODUyLC0yNTg2NTQyOT
-YsMjEyMjY5NjYyNCwtMTc2OTM3MTcxNCwyNTIwODUxOTVdfQ==
-
+eyJoaXN0b3J5IjpbODg0NDEwNjQ2LDUyMDg2OTg5LC0xNzg0NT
+MwMTE2LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcwMjk1
+LDE3OTQ5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC04MD
+E2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQzMTQy
+NTUyMCwyMDg3NDQyNTk4LDEzODEzNzA4NTIsLTI1ODY1NDI5Ni
+wyMTIyNjk2NjI0LC0xNzY5MzcxNzE0LDI1MjA4NTE5NV19
 -->
