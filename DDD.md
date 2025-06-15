@@ -60,8 +60,9 @@ existem 5 niveis de detalhamento de escopo, normalmente ficamos no nivel 3 de de
 - quando dois times diferentes tem informações compartilhadas entre si, o que acada ultrapassando o contexto delimitado é importante discutir entre ambas as equipes para criar uma linguagem ubiqua entre ambos, evitando assim mal entendidos e deixando todas as pessoas com a mesma visão do processo
 - evite ao maximo compartilhar o mesmo codigo em dois times diferentes pois a chance de conflitos é muito grande.
 - quando a aplicação realmente depender de fluxos que impactem ampas os setores, criar uma terceira aplicação que faça exclusivamente esse processo é uma boa opção, evitando que as aplicações principais acabem conflitando
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTE2ODExMCwtMTc4NDUzMDExNiwxND
+eyJoaXN0b3J5IjpbMTY1NzI1ODIxNywtMTc4NDUzMDExNiwxND
 I4Njk0ODA1LDIwODgwMzM5NDgsMTYzMjM3MDI5NSwxNzk0OTc3
 NzAwLC03MjU1ODcyNjIsMTg5NzAyMzk1NCwtODAxNjc5Mjg3LC
 0xMzUzNDA4MjA1LDIwODc0NDI1OTgsLTE0MzE0MjU1MjAsMjA4
