@@ -129,13 +129,15 @@ são empresas que fazem o ACL por vc :
 conjunto de entidades que compartilham a mesma linguagem ubliqua e podem fazer parte do mesmo contexto delimitado
 
 **servicos de dominio:** 
-são objetos tratados em separado que trabalham com diversas entidades e agre
+- são criados a parte do codigo
+- são objetos tratados em separado que trabalham com diversas entidades e agregados
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2Mzc2ODg2NCwxMjY0MTIwOTI4LDE0Mj
-I3NDQ1ODIsLTU3NjY1MTU5MCwxNjU5MTMxMzg5LDEzMTM5ODM2
-OTEsNzIzMTcyNzgwLC03MDkwMTg2ODMsNTIwODY5ODksLTE3OD
-Q1MzAxMTYsMTQyODY5NDgwNSwyMDg4MDMzOTQ4LDE2MzIzNzAy
-OTUsMTc5NDk3NzcwMCwtNzI1NTg3MjYyLDE4OTcwMjM5NTQsLT
-gwMTY3OTI4NywtMTM1MzQwODIwNSwyMDg3NDQyNTk4LC0xNDMx
-NDI1NTIwXX0=
+eyJoaXN0b3J5IjpbLTEwODQzMDc0MjUsMTI2NDEyMDkyOCwxND
+IyNzQ0NTgyLC01NzY2NTE1OTAsMTY1OTEzMTM4OSwxMzEzOTgz
+NjkxLDcyMzE3Mjc4MCwtNzA5MDE4NjgzLDUyMDg2OTg5LC0xNz
+g0NTMwMTE2LDE0Mjg2OTQ4MDUsMjA4ODAzMzk0OCwxNjMyMzcw
+Mjk1LDE3OTQ5Nzc3MDAsLTcyNTU4NzI2MiwxODk3MDIzOTU0LC
+04MDE2NzkyODcsLTEzNTM0MDgyMDUsMjA4NzQ0MjU5OCwtMTQz
+MTQyNTUyMF19
 -->
